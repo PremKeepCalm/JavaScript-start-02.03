@@ -6,4 +6,6 @@ const stala = 'Zmienna stała';
 
 stala = 'Zmienna stała - I';
 
+/* nie wolno nadpisywac const */
+
 console.log(stala);
